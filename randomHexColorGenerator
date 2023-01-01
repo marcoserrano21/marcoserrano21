@@ -13,16 +13,25 @@
     .color-display {
       position: absolute;
       z-index: 1;
-      font-size: 30px;
+      font-size: 50px;
+      font-weight: bold;
     }
     .body-text {
-      margin-top: 50px;
+      margin-top: 100px;
+      
     }
+
+    #bold {
+        font-style: italic;
+        text-decoration: wavy underline;
+    }
+
+
   </style>
 </head>
 <body onclick="changeColor()">
   <div class="color-display"></div>
-  <div class="body-text">Click <strong>anywhere</strong> on the body to change the background color.</div>
+  <div class="body-text">Click <strong id="bold">anywhere</strong> on the body to change the background color.</div>
 </body>
 
 <script>
