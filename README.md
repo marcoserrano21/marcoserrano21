@@ -50,7 +50,7 @@
 <!-- Social Links -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  LinkedIn: https://www.linkedin.com/in/marco-serrano-4444mj/
+  <a href="https://www.linkedin.com/in/marco-serrano-4444mj/">LinkedIn</a>
   
 </p>
 
