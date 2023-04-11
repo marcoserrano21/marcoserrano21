@@ -44,7 +44,7 @@
 <!-- Contact Information -->
 <h2 align="center">Get in Touch</h2>
 <p align="center">
-  You can reach me by Email! 📫 <a href="mailto:mserran15@gmail.com"><button>Contact Me</button>
+  You can reach me by Email! 📫 <a href="mailto:mserran15@gmail.com"><button>mserran15@gmail.com</button>
 </p>
 
 <!-- Social Links -->
