@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center" style="color: #333;">
-  I'm passionate about web development, with a focus on front-end development. My expertise lies in JavaScript, HTML, CSS, and React. I strive to create user-friendly web experiences with visually appealing designs. I'm also looking to collaborate on Web Designs. 👀
+  I am extremely passionate about cybersecurity and web development, with a keen focus on security. My expertise in JavaScript, HTML, CSS, and React, exceptional organizational skills, critical thinking abilities, and attention to detail. I am always eager to collaborate with others on web designs and bring my skills to the table. 👀
 </p>
 
 <!-- Repository Showcase -->
