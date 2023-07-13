@@ -29,8 +29,8 @@
       </td>
       <td width="50%">
         <ul style="color: #333;">
-          <li>Figma</li>
-          <li>Adobe Creative Cloud (Photoshop, Illustrator, etc.)</li>
+          <li>Cybersecurity Analyst</li>
+          <li>Adobe Creative Cloud</li>
           <li>Admin Assistant</li>
           <li>IT Support Specialist</li>
         </ul>
