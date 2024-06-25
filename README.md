@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center" style="color: #333;">
-  I am extremely passionate about cybersecurity and web development, with a keen focus on security. My expertise in JavaScript, HTML, CSS, and React, exceptional organizational skills, critical thinking abilities, and attention to detail. I am always eager to collaborate with others on web designs and bring my skills to the table. 👀
+  I am an aspiring Data Analyst with a strong foundation in cybersecurity. I am currently enhancing my skills in SQL, Python, and Excel. My background in cybersecurity, combined with my expertise in these tools, sharp analytical skills, and keen attention to detail, equips me to effectively analyze and protect data. I am passionate about using my skills to collaborate on data-driven projects and contribute valuable insights to the team. 👀
 </p>
 
 <!-- Repository Showcase -->
@@ -49,7 +49,7 @@
 <!-- Social Links -->
 <h2 align="center" style="color: #007BFF;">Connect with Me</h2>
 <p align="center" style="color: #333;">
-  <a href="https://www.linkedin.com/in/marco-serrano-4444mj/" style="color: #007BFF;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/marco-serrano25/" style="color: #007BFF;">LinkedIn</a>
 </p>
 
 
