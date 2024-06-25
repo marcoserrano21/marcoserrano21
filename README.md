@@ -21,18 +21,18 @@
     <tr>
       <td width="50%">
         <ul style="color: #333;">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JavaScript</li>
-          <li>React</li>
+          <li>SQL</li>
+          <li>Excel</li>
+          <li>Python</li>
+          <li>HTML & CSS</li>
         </ul>
       </td>
       <td width="50%">
         <ul style="color: #333;">
           <li>Cybersecurity Analyst</li>
+          <li>Data Analyst</li>
           <li>Adobe Creative Cloud</li>
           <li>Admin Assistant</li>
-          <li>IT Support Specialist</li>
         </ul>
       </td>
     </tr>
