@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center" style="color: #333;">
-  I am an aspiring Data Analyst with a strong foundation in cybersecurity. I am currently enhancing my skills in SQL, Python, and Excel. My cybersecurity background, expertise in these tools, sharp analytical skills, and keen attention to detail equip me to analyze and protect data effectively. I am passionate about using my skills to collaborate on data-driven projects and contribute valuable insights to the team. 👀
+  I am an aspiring Data Analyst with a strong foundation in administrative assistance. I am currently enhancing my skills in SQL, Python, and Excel. My experience and expertise in these tools, sharp analytical skills, and keen attention to detail equip me to analyze and protect data effectively. I am passionate about using my skills to collaborate on data-driven projects and contribute valuable insights to the team. 👀
 </p>
 
 <!-- Repository Showcase -->
@@ -11,7 +11,7 @@
 <p align="center" style="color: #333;">
   Check out my GitHub repositories: <br>
   <a href="https://github.com/marcoserrano21?tab=repositories">https://github.com/marcoserrano21?tab=repositories</a> <br>
-  Currently working on my Portfolio to showcase my projects. 🌱
+  I am currently working on my Portfolio to showcase my projects. 🌱
 </p>
 
 <!-- Skills and Tools -->
