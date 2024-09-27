@@ -29,8 +29,8 @@
       </td>
       <td width="50%">
         <ul style="color: #333;">
-          <li>Cybersecurity Analyst</li>
-          <li>Data Analyst</li>
+          <li>Cybersecurity</li>
+          <li>Data Analysis</li>
           <li>Adobe Creative Cloud</li>
           <li>Admin Assistant</li>
         </ul>
