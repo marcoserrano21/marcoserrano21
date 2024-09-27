@@ -24,6 +24,7 @@
           <li>SQL</li>
           <li>Excel</li>
           <li>Python</li>
+          <li>Power BI</li>
           <li>HTML & CSS</li>
         </ul>
       </td>
