@@ -21,8 +21,8 @@
     <tr>
       <td width="50%">
         <ul style="color: #333;">
-          <li>SQL</li>
-          <li>Excel</li>
+          <li>MySQL</li>
+          <li>Microsoft Office</li>
           <li>Python</li>
           <li>Power BI</li>
           <li>HTML & CSS</li>
@@ -30,7 +30,7 @@
       </td>
       <td width="50%">
         <ul style="color: #333;">
-          <li>Cybersecurity</li>
+          <li>Market Research</li>
           <li>Data Analysis</li>
           <li>Adobe Creative Cloud</li>
           <li>Admin Assistant</li>
